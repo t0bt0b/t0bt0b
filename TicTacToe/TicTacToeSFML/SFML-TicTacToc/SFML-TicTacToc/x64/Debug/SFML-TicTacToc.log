@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Tobias\source\repos\SFML-TicTacToc\SFML-TicTacToc\main.cpp(281,15): warning C4101: "mouse": Unreferenzierte lokale Variable
+C:\Users\Tobias\source\repos\SFML-TicTacToc\SFML-TicTacToc\main.cpp(248): warning C4715: "TTT::winFunction": Nicht alle Codepfade geben einen Wert zurück.
+  SFML-TicTacToc.vcxproj -> C:\Users\Tobias\source\repos\SFML-TicTacToc\x64\Debug\SFML-TicTacToc.exe
