@@ -1,7 +1,7 @@
 # 👋 Hi, my name is @t0bt0b!
 
 I am currently a student studying electronics and computer science.
-- **Programming**, **cybersecurity** and **Networks** are my passion :P
+- **Programming**, **cybersecurity** and **networks** are my passion :P
  
 <!--- 👀 I’m interested in programming 
 - 🌱 I’m currently learning ...
