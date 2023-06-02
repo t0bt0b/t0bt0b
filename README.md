@@ -1,8 +1,8 @@
-👋 Hi, I’m @t0bt0b,
- and programming is my passion :P
+# 👋 Hi, my name is @t0bt0b!
 
-
-
+I am currently a student studying electronics and computer science
+**Programming**, **cybersecurity** and **Networks** are my passion :P
+ 
 <!--- 👀 I’m interested in programming 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
