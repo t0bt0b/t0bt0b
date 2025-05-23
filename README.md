@@ -1,6 +1,6 @@
 # 👋 Hi, my name is @t0bt0b!
 
-I am currently a student studying electronics and computer science.
+I have an austrian degree in electronics and computer engineering, specialising in software, and now I'm off to university ;)
 - **Programming**, **Cybersecurity** and **Computer Networking** are my passion :P
  
 <!--- 👀 I’m interested in programming 
